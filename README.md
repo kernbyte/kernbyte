@@ -1,6 +1,8 @@
 ## Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kernbyte&show_icons=true&theme=transparent)]
 <img align="left" alt="Codeberg" width="40px" style="padding-right:10px;" src="https://design.codeberg.org/logo-kit/icon_inverted.svg">
+<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://design.codeberg.org/logo-kit/icon_inverted.svg](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png">
+
 <!--
 **kernbyte/kernbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
