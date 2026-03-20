@@ -1,8 +1,6 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kernbyte&show_icons=true&theme=transparent)]
-<p align="center">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kernbyte&show_icons=true&theme=synthwave)]
   <img src="https://api.boot.dev/v1/users/public/ed201b75-3710-4c69-9f45-e8e887c73f0c/thumbnail" >
-</p>
 <!--
 **kernbyte/kernbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
