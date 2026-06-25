@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
 ###
 
 <div data-importer="stats" align="center">
